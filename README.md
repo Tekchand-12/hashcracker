@@ -1,0 +1,2 @@
+# hashcracker
+Simple hashcracker
